@@ -1,0 +1,14 @@
+ORPort 9001
+DirPort 9030
+ControlPort 9051
+SocksPort 0
+
+Nickname MyAwesomeDockerTorRelay
+ContactInfo yourusername@someprovider.com
+
+BandwidthRate 20 MBits
+BandwidthBurst 40 MBits
+
+CookieAuthentication 1
+ExitRelay 0
+ExitPolicy reject *:*
